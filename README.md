@@ -18,7 +18,7 @@ CIRCUITO ESCALERA, 924, VAIVEN, 3 VÍAS.
 
 - Estudiar y entender las definiciones y funciones de los materiales utilizados.
 
-- Comprender la aportación de cada cable implementado en el circuito para su buena ejecución.
+- Comprender el aporte de cada cable implementado en el circuito para su buena ejecución.
 
 - Mediante un video expositivo reforzar lo estudiado en este proyecto.
 
