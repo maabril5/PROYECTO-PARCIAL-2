@@ -64,6 +64,8 @@ CIRCUITO ESCALERA, 924, VAIVEN, 3 VÍAS.
 
 ![image](https://user-images.githubusercontent.com/117920423/212818230-c346a48f-cef4-448e-8005-33b23f187cd5.png)
 
+![image](https://user-images.githubusercontent.com/117920423/212821143-047d3ae1-6d5d-426f-abcc-86de39a1f53b.png)
+
 VIDEO.
 
 
