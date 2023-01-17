@@ -72,11 +72,11 @@ VIDEO.
 
 CONCLUSIONES.
 
--Se concluye lo importante y útil que pueden llegar a ser cada elemento que conforma un circuito.
+- Se concluye lo importante que son los cables fase y neutro para el manejo de la corriente eléctrica en el circuito. 
 
--Concluimos tras el proyecto el resultado de aprendizaje obtenido aplicando un circuito de manera autónoma con un exhausto método de investigación.
+- Concluimos tras el proyecto el resultado de aprendizaje obtenido aplicando un circuito de manera autónoma con un exhausto método de investigación.
 
--El video expuesto nos ayudó a interectuar más con el tema y resumirlo mediaticamente.
+- El video expuesto nos ayudó a interectuar más con el tema y resumirlo mediaticamente.
 
 BIBLIOGRAFÍA.
 
